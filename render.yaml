@@ -40,7 +40,7 @@ services:
       # The app uses this info to know which repo to fetch latest commit data from for upgrades
       # This should MATCH the `repo` and `branch` keys in the config above ALWAYS
       - key: GITHUB_REPO_OWNER
-        value: maybe-finance
+        value: aslafy-z
       - key: GITHUB_REPO_NAME
         value: maybe
       - key: GITHUB_REPO_BRANCH
